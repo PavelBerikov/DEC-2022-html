@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad7c82cd-47b3-442d-914e-3c8f1fbfd119" name="Changes" comment="Створив файл homework.html, та додав в нього інформацію про серіал">
-      <change afterPath="$PROJECT_DIR$/lesson 1(homework)/images/gomer.png" afterDir="false" />
+    <list default="true" id="ad7c82cd-47b3-442d-914e-3c8f1fbfd119" name="Changes" comment="додав гомера">
+      <change afterPath="$PROJECT_DIR$/lesson 1(homework)/images/Bart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson 1(homework)/images/lisa.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson 1(homework)/homework.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 1(homework)/homework.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 1(homework)/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 1(homework)/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 1(homework)/test.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +26,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/lesson 1(homework)/test.html" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -67,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674041512015</updated>
-      <workItem from="1674041513190" duration="8054000" />
+      <workItem from="1674041513190" duration="9982000" />
     </task>
     <task id="LOCAL-00001" summary="Створив файл homework.html, та додав в нього інформацію про серіал">
       <created>1674048992551</created>
@@ -76,7 +76,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674048992551</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="додав гомера">
+      <created>1674049729581</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674049729628</updated>
+    </task>
+    <task id="LOCAL-00003" summary="додав гомера">
+      <created>1674049809492</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674049809492</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,6 +98,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Створив файл homework.html, та додав в нього інформацію про серіал" />
-    <option name="LAST_COMMIT_MESSAGE" value="Створив файл homework.html, та додав в нього інформацію про серіал" />
+    <MESSAGE value="додав гомера" />
+    <option name="LAST_COMMIT_MESSAGE" value="додав гомера" />
   </component>
 </project>

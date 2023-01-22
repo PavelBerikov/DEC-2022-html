@@ -1,0 +1,30 @@
+.father{
+    width: 100%px;
+    height: 600px;
+    background: silver;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    background: cadetblue;
+    width: 900px;
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    border-radius: 5px;
+
+}
+.card{
+    display: flex;
+    background: white;
+    width: 400px;
+    height: 200px;
+    align-items: center;
+    border-radius: 10px;
+}
+h3{
+    color: orange;
+}

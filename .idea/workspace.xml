@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad7c82cd-47b3-442d-914e-3c8f1fbfd119" name="Changes" comment="додав альти до зображень">
-      <change afterPath="$PROJECT_DIR$/lesson3(homework)/homeworkCARDS.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3(homework)/mainCARDS.css" afterDir="false" />
+    <list default="true" id="ad7c82cd-47b3-442d-914e-3c8f1fbfd119" name="Changes" comment="card 1">
+      <change afterPath="$PROJECT_DIR$/lesson3(homework)/card2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3(homework)/mainCARD2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lessonFLEX(homework)/mainFLEX.css" beforeDir="false" afterPath="$PROJECT_DIR$/lessonFLEX(homework)/mainFLEX.css" afterDir="false" />
     </list>
@@ -74,7 +74,7 @@
       <workItem from="1674495557533" duration="2111000" />
       <workItem from="1674551767963" duration="23000" />
       <workItem from="1674654797206" duration="409000" />
-      <workItem from="1674655576922" duration="4218000" />
+      <workItem from="1674655576922" duration="9645000" />
     </task>
     <task id="LOCAL-00001" summary="Створив файл homework.html, та додав в нього інформацію про серіал">
       <created>1674048992551</created>
@@ -132,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674407516812</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="card 1">
+      <created>1674660050601</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674660050601</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +151,7 @@
     <MESSAGE value="зробив дз" />
     <MESSAGE value="дз флекс" />
     <MESSAGE value="додав альти до зображень" />
-    <option name="LAST_COMMIT_MESSAGE" value="додав альти до зображень" />
+    <MESSAGE value="card 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="card 1" />
   </component>
 </project>

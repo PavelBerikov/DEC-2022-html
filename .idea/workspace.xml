@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad7c82cd-47b3-442d-914e-3c8f1fbfd119" name="Changes" comment="дз флекс">
-      <change afterPath="$PROJECT_DIR$/lessonFLEX(homework)/cards3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessonFLEX(homework)/images/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessonFLEX(homework)/images/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessonFLEX(homework)/images/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessonFLEX(homework)/images/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessonFLEX(homework)/mainCARDS3.css" afterDir="false" />
+    <list default="true" id="ad7c82cd-47b3-442d-914e-3c8f1fbfd119" name="Changes" comment="додав альти до зображень">
+      <change afterPath="$PROJECT_DIR$/lesson3(homework)/homeworkCARDS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3(homework)/mainCARDS.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessonFLEX(homework)/mainFLEX.css" beforeDir="false" afterPath="$PROJECT_DIR$/lessonFLEX(homework)/mainFLEX.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,23 +35,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/User/IdeaProjects/DEC-2022-html",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/DEC-2022-html/lesson3(homework)&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\DEC-2022-html\lesson3(homework)" />
       <recent name="C:\Users\User\IdeaProjects\DEC-2022-html\lesson 1(homework)\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -72,7 +70,11 @@
       <updated>1674041512015</updated>
       <workItem from="1674041513190" duration="10138000" />
       <workItem from="1674146879992" duration="8000" />
-      <workItem from="1674399546649" duration="7594000" />
+      <workItem from="1674399546649" duration="8238000" />
+      <workItem from="1674495557533" duration="2111000" />
+      <workItem from="1674551767963" duration="23000" />
+      <workItem from="1674654797206" duration="409000" />
+      <workItem from="1674655576922" duration="4218000" />
     </task>
     <task id="LOCAL-00001" summary="Створив файл homework.html, та додав в нього інформацію про серіал">
       <created>1674048992551</created>
@@ -116,7 +118,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674403141039</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="дз флекс">
+      <created>1674407294890</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674407294890</updated>
+    </task>
+    <task id="LOCAL-00008" summary="додав альти до зображень">
+      <created>1674407516812</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674407516812</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +143,7 @@
     <MESSAGE value="додав гомера" />
     <MESSAGE value="зробив дз" />
     <MESSAGE value="дз флекс" />
-    <option name="LAST_COMMIT_MESSAGE" value="дз флекс" />
+    <MESSAGE value="додав альти до зображень" />
+    <option name="LAST_COMMIT_MESSAGE" value="додав альти до зображень" />
   </component>
 </project>

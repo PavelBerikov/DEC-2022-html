@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad7c82cd-47b3-442d-914e-3c8f1fbfd119" name="Changes" comment="card 1">
-      <change afterPath="$PROJECT_DIR$/lesson3(homework)/card2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3(homework)/mainCARD2.css" afterDir="false" />
+    <list default="true" id="ad7c82cd-47b3-442d-914e-3c8f1fbfd119" name="Changes" comment="card 2">
+      <change afterPath="$PROJECT_DIR$/lesson4(homework)/lesson4(1).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4(homework)/lesson4(2).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4(homework)/main1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4(homework)/main2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4(homework)/normolize.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lessonFLEX(homework)/mainFLEX.css" beforeDir="false" afterPath="$PROJECT_DIR$/lessonFLEX(homework)/mainFLEX.css" afterDir="false" />
     </list>
@@ -35,21 +38,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/DEC-2022-html/lesson3(homework)&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/DEC-2022-html",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\User\IdeaProjects\DEC-2022-html\lesson3(homework)" />
@@ -74,7 +77,9 @@
       <workItem from="1674495557533" duration="2111000" />
       <workItem from="1674551767963" duration="23000" />
       <workItem from="1674654797206" duration="409000" />
-      <workItem from="1674655576922" duration="9645000" />
+      <workItem from="1674655576922" duration="10192000" />
+      <workItem from="1674832109617" duration="53000" />
+      <workItem from="1674921642616" duration="9292000" />
     </task>
     <task id="LOCAL-00001" summary="Створив файл homework.html, та додав в нього інформацію про серіал">
       <created>1674048992551</created>
@@ -139,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674660050601</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="card 2">
+      <created>1674665616000</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674665616000</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +164,7 @@
     <MESSAGE value="дз флекс" />
     <MESSAGE value="додав альти до зображень" />
     <MESSAGE value="card 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="card 1" />
+    <MESSAGE value="card 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="card 2" />
   </component>
 </project>
